@@ -161,3 +161,8 @@
     font-size: 14px;
 }
 
+.item h4 {
+	padding-left: 0px;
+	padding-right: 0px;
+}
+
